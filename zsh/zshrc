@@ -1,6 +1,7 @@
 fpath=(/usr/local/share/zsh/site-functions $fpath)
-dotfiles="/Users/sth/.dotfiles"
+dotfiles="/Users/robertkenny/.dotfiles"
 
+export CC="/usr/local/bin/gcc-4.2"
 export PATH="./.bin:/usr/local/bin:/usr/local/share/npm/bin:/opt/chgems/bin:$PATH"
 
 if [[ -d $dotfiles/zsh/conf.d ]]; then

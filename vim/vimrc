@@ -232,7 +232,7 @@ Bundle 'vim-scripts/rename.vim'
 " http://robots.thoughtbot.com/post/53022241323/seamlessly-navigate-vim-and-tmux-splits
 Bundle 'christoomey/vim-tmux-navigator'
 
-
+Bundle 'scrooloose/nerdtree'
 " Unite
 " Bundle 'Shougo/vimproc.vim'
 " Bundle 'Shougo/unite.vim'
